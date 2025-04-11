@@ -7,3 +7,5 @@
 - Bulma
 
 **Don't Forget to Star & Fork This Repository ⭐**
+
+## Credits
